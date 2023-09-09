@@ -5,6 +5,7 @@ Must-read papers on the topic of watermarking techniques for images and text.
   - [Text watermark](#text-watermark)
   - [Image watermark](#image-watermark)
   - [Contributing to this paper list](#contributing-to-this-paper-list)
+  - [Acknowledgements](#acknowledgements)
     
 ## Text watermark
 
@@ -85,3 +86,7 @@ Must-read papers on the topic of watermarking techniques for images and text.
 First, think about which category the work should belong to.
 
 Second, use the same format as the others to describe the work.
+
+# Acknowledgements
+
+Thanks to the foundational work provided by the initial version of [Awesome-LLM-Watermark](https://github.com/hzy312/Awesome-LLM-Watermark). This repository served as a launching point for the expanded collection.
