@@ -46,7 +46,7 @@ Must-read papers on the topic of watermarking techniques for images and text.
   * Taehyun Lee, Seokhee Hong, Jaewoo Ahn, Ilgee Hong, Hwaran Lee, Sangdoo Yun, Jamin Shin, Gunhee Kim.
   * https://arxiv.org/abs/2305.15060
 * **Robust Multi-bit Natural Language Watermarking through Invariant Features.** ACL 2023.
-* KiYoon Yoo, Wonhyuk Ahn, Jiho Jang, Nojun Kwak.
+  * KiYoon Yoo, Wonhyuk Ahn, Jiho Jang, Nojun Kwak.
   * https://arxiv.org/abs/2305.01904
 * **Are You Copying My Model? Protecting the Copyright of Large Language Models for EaaS via Backdoor Watermark.** ACL 2023.
   * Wenjun Peng, Jingwei Yi, Fangzhao Wu, Shangxi Wu, Bin Zhu, Lingjuan Lyu, Binxing Jiao, Tong Xu, Guangzhong Sun, Xing Xie.
